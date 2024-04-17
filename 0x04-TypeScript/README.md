@@ -1,6 +1,15 @@
 TypeScript
 
 TypeScript is a programming language developed by Microsoft. It is a superset of JavaScript, which means that any valid JavaScript code is also valid TypeScript code. TypeScript adds static typing to JavaScript, enabling developers to catch errors at compile-time rather than runtime. This can lead to more robust code and better tooling support, especially in larger codebases.
+Basic types in Typescript
+Interfaces, Classes, and functions
+How to work with the DOM and Typescript
+Generic types
+How to use namespaces
+How to merge declarations
+How to use an ambient Namespace to import an external library
+Basic nominal typing with Typescript
+
 
 Some key features of TypeScript include:
 
